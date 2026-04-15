@@ -1,0 +1,4 @@
+2026-04-15 16:11:56,398 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-15 16:11:57,211 - ERROR - Order Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 16:13:56,604 - INFO - Placing order: BTCUSDT SELL LIMIT 0.006 6000.0
+2026-04-15 16:13:57,530 - ERROR - Order Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
